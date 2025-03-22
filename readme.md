@@ -182,7 +182,7 @@ on "IBIS" but its option traded on "DTB".
 - TypeScript Deno [/api/deno/ib.ts](/api/deno/ib.ts)
 - Nim - [/api/nim/ibm.nim](/api/nim/ibm.nim)
 - Crystal (Ruby) [/api/crystal/ib.ts](/api/crystal/ib.cr)
-- Other languages - look at code in [deno/ib.ts](/deno/ib.ts) and translate it
+- Other languages - look at code in [/api/deno/ib.ts](/api/deno/ib.ts) and translate it
   to language you need, it's short and simple.
 
 # Features
