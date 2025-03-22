@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
-
+set -eux
 export MAVEN_OPTS="-ea"
 mvn -q compile exec:java -Dexec.mainClass="AppKt"
